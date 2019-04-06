@@ -19,3 +19,20 @@ To deactivate,
 ```
 conda deactivate
 ````
+
+2. Install PyTorch
+
+https://pytorch.org/get-started/locally/
+
+
+
+Install PyTorch using conda without GPU,
+
+First, activate the environment,
+```
+conda activate torch
+```
+
+```
+conda install pytorch torchvision -c pytorch
+```
