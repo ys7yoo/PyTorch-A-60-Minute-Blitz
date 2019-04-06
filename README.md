@@ -22,17 +22,16 @@ conda deactivate
 
 2. Install PyTorch
 
-https://pytorch.org/get-started/locally/
 
-
-
-Install PyTorch using conda without GPU,
 
 First, activate the environment,
 ```
 conda activate torch
 ```
 
+Install PyTorch using conda without GPU,
 ```
 conda install pytorch torchvision -c pytorch
 ```
+
+See [here](https://pytorch.org/get-started/locally/) for other options.
