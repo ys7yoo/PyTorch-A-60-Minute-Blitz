@@ -40,5 +40,5 @@ See [here](https://pytorch.org/get-started/locally/) for other options.
 3. Install other packages 
 
 ```
-conda install jupyter
+conda install jupyter matplotlib
 ```
